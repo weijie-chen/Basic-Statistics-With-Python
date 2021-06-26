@@ -15,4 +15,4 @@ And you would benefit more from the course if you have basic knowledge of follow
 - [x] Pandas
 
 ## Contents
-...To be filled
+[Lecture 1 - Descriptive Statistics](https://nbviewer.jupyter.org/github/MacroAnalyst/Basic_Statistics_With_Python/blob/main/Chapter%201%20-%20Descriptive%20Statistics.ipynb)<br>
