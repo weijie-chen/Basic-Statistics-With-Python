@@ -19,3 +19,4 @@ And you would benefit more from the course if you have basic knowledge of follow
 [Lecture 2 - Probability Review](https://nbviewer.jupyter.org/github/MacroAnalyst/Basic_Statistics_With_Python/blob/main/Chapter%202%20-%20Probability%20Review.ipynb)<br>
 [Lecture 3 - Point and Interval Estimation](https://nbviewer.jupyter.org/github/MacroAnalyst/Basic_Statistics_With_Python/blob/main/Chapter%203%20-%20Point%20and%20Interval%20Estimation.ipynb)<br>
 [Lecture 4 - Hypothesis Testing](https://nbviewer.jupyter.org/github/MacroAnalyst/Basic_Statistics_With_Python/blob/main/Chapter%204%20-%20Hypothesis%20Testing.ipynb)<br>
+[Lecture 5 - Analysis of Variance and Chi-Squared Test]()<br>
