@@ -1,5 +1,5 @@
 # Basic Statistics With Python
-This is a series of lecture notes that I prepared in my statistics tutorial, which are supposed to be concise and straightforward, withouth any unnecessary proofs or derivation. The tutorials will cover most the core statistic concepts starting from descriptive statistics to inferential statistics and hypothesis testing, some probability distribution will also be refreshed. 
+This is a series of lecture notes that I prepared in my statistics tutorial, which are supposed to be concise and straightforward, without any unnecessary proofs or derivation. The tutorials will cover most the core statistic concepts starting from descriptive statistics to inferential statistics and hypothesis testing, some probability distribution will also be refreshed. 
 
 Once you have walked through the tutorial notes, you should be confident to move further to notes of Econometrics, Bayesian statistics/econometrics, which I will upload in the near furture.
 
