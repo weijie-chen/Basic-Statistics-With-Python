@@ -3,7 +3,7 @@ This is a series of lecture notes that I prepared in my statistics tutorial, whi
 
 Once you have walked through the tutorial notes, you should be confident to move further to notes of Econometrics, Bayesian statistics/econometrics, which I will upload in the near furture.
 
-## Who Can Benifit From These Notes
+## Who Can Benefit From These Notes
 Perfect for university students who wants to have a quick walkthrough of core structure of **frequentist statistics**, also very beneficial for practioners, such as junior quantitative analysts, who wants to refresh their knowledge as fast as possible (i.e. within 3 days). All the practices in the notes are demonstrated by Python, including all figures and charts.
 
 ## Prerequisites
