@@ -16,6 +16,7 @@ And you would benefit more from the tutorials if you have basic knowledge of:
 
 ## Contents
 It is advisable to either open the notebooks in Jupyter nbviewers (links below) or download them, since github has frequent rendering glitches in LaTeX and sometimes even missing a plot.
+
 [Lecture 1 - Descriptive Statistics](https://nbviewer.jupyter.org/github/MacroAnalyst/Basic_Statistics_With_Python/blob/main/Chapter%201%20-%20Descriptive%20Statistics.ipynb)<br>
 [Lecture 2 - Probability Review](https://nbviewer.jupyter.org/github/MacroAnalyst/Basic_Statistics_With_Python/blob/main/Chapter%202%20-%20Probability%20Review.ipynb)<br>
 [Lecture 3 - Point and Interval Estimation](https://nbviewer.jupyter.org/github/MacroAnalyst/Basic_Statistics_With_Python/blob/main/Chapter%203%20-%20Point%20and%20Interval%20Estimation.ipynb)<br>
