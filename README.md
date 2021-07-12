@@ -22,3 +22,11 @@ It is advisable to either open the notebooks in Jupyter nbviewers (links below) 
 [Lecture 3 - Point and Interval Estimation](https://nbviewer.jupyter.org/github/MacroAnalyst/Basic_Statistics_With_Python/blob/main/Chapter%203%20-%20Point%20and%20Interval%20Estimation.ipynb)<br>
 [Lecture 4 - Hypothesis Testing](https://nbviewer.jupyter.org/github/MacroAnalyst/Basic_Statistics_With_Python/blob/main/Chapter%204%20-%20Hypothesis%20Testing.ipynb)<br>
 [Lecture 5 - Analysis of Variance and Chi-Squared Test](https://nbviewer.jupyter.org/github/MacroAnalyst/Basic_Statistics_With_Python/blob/main/Chapter%205%20-%20Analysis%20of%20Variance%20and%20Chi-Squared%20Test.ipynb)<br>
+
+
+![截图00](https://user-images.githubusercontent.com/59842360/125285980-2afc6580-e313-11eb-8169-7c0661cb8684.jpg)
+![截图01](https://user-images.githubusercontent.com/59842360/125285987-2cc62900-e313-11eb-8581-eddef58740a9.jpg)
+![截图02](https://user-images.githubusercontent.com/59842360/125285995-2df75600-e313-11eb-89eb-29dd7fa53557.jpg)
+![截图03](https://user-images.githubusercontent.com/59842360/125286000-2e8fec80-e313-11eb-8b5b-8032bf25f9ba.jpg)
+![截图04](https://user-images.githubusercontent.com/59842360/125286004-2fc11980-e313-11eb-9c1f-d13c7456673c.jpg)
+![截图05](https://user-images.githubusercontent.com/59842360/125286008-30f24680-e313-11eb-9b7b-d7b0db2a3397.jpg)
