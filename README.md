@@ -1,4 +1,4 @@
-# Basic Statistics With Python
+# Basic Statistics With Python[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)]()
 This is a series of lecture notes that I prepared in my statistics tutorial, which are supposed to be concise and straightforward, without any unnecessary proofs or derivation. The tutorials will cover most of the core statistic concepts starting from descriptive statistics to statistic inferences and hypothesis testing, some probability distribution will also be refreshed. 
 
 Once you have walked through the tutorial notes, you should be confident to move further to notes of <a href='https://github.com/MacroAnalyst/Basic_Econometrics_With_Python' target='_blank'>Econometrics</a>, Bayesian statistics/econometrics, which I will upload in the near furture.
