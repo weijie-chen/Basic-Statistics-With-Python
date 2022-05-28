@@ -1,5 +1,5 @@
 # Basic Statistics With Python [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)]()
-[Last updated on 15th Feb 2022]
+[Last updated on 28th May 2022]
 
 This is a series of lecture notes that I prepared in my statistics tutorial (used prepared for one-night new-hire statistical training in hedge fund), which are supposed to be concise and straightforward, without any unnecessary proofs or derivation. The tutorials will cover most of the core statistic concepts starting from descriptive statistics to statistic inferences and hypothesis testing, some probability distribution will also be refreshed. 
 
